@@ -1,0 +1,1 @@
+{"repo": {"timestamp": 1754909558000, "version": 20002, "name": "TapXCard Repo", "icon": "icon.png", "address": "http://192.168.1.5:8080/repo", "description": "Private F-Droid repo for TapXCard APK"}, "requests": {"install": [], "uninstall": []}, "apps": [], "packages": {}}
