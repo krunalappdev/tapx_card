@@ -1,8 +1,5 @@
 repo_keyalias: 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
 keydname: CN=1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa,
   OU=F-Droid
-keystorepass: NGxu9w8WSta8o6GES9cy/F0OJt5nA8+u1dQBq3WrV0Y=
-keypass: NGxu9w8WSta8o6GES9cy/F0OJt5nA8+u1dQBq3WrV0Y=
-repo_url: "http://192.168.1.5:8080/repo"
-repo_name: "TapXCard Repo"
-repo_description: "Private F-Droid repo for TapXCard APK"
+keystorepass: pPI6ZjNRd1HV7uldHwB58HULqfGMtQnU4mIfi7/QZak=
+keypass: pPI6ZjNRd1HV7uldHwB58HULqfGMtQnU4mIfi7/QZak=
